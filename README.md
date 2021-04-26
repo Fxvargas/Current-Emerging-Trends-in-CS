@@ -1,1 +1,5 @@
 # Current-Emerging-Trends-in-CS
+
+The program is a game called Treasure Hunt where an AI looks for the treasure and tries to make it in a few moves as possible while avoiding obstacles. For each move made, the AI loses a small amount of points to encourage as few moves as possible. Hitting an obstacle or backtracking to a previous space loses a large number of points to make these moves something to avoid. Reaching the treasure gains the AI points. Most of the code like the Game Experience file contains variables and values for things like moves for example, and were provided to us. What we had to build was the neural network in the Treasure Hunt file.
+
+Computer scientists look to find efficient ways in accomplishing tasks through software which provide consistent results more often than humans. Computer scientists much approach problems in a way where they can improve the product or re-make in a way that makes it more efficient. It is important for scientists to remember ethical practices since their users are trusting them to provide software that is useful and safe with any information provided to it.
